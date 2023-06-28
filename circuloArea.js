@@ -1,4 +1,4 @@
-function areaCirculo(radio) { // Función que almacena los metodos y los atributos
+function areaCirculo(radio) { // Función que almacena los metodos y los parametros 
     return (3.141592 * (radio*radio)); // retorna un valor
 }
 
